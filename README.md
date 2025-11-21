@@ -1,3 +1,4 @@
 # web_dev_312
-This is my first repo
-author ---
+This is my first Repository.
+<br>
+Author ---
